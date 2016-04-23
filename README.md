@@ -44,3 +44,13 @@ https://courses.edx.org/courses/course-v1:UBCx+SPD1x+1T2016/info
 #### Programming and Programming Languages (Pyret)
 
 http://papl.cs.brown.edu/2016/Introduction.html
+
+
+#### Crunch monster (Javascript)
+
+http://www.crunchzilla.com/code-monster
+
+
+#### Khan Academy (Javascript)
+
+https://www.khanacademy.org/computing/computer-programming/programming

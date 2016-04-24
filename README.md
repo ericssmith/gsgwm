@@ -8,54 +8,54 @@ https://vimeo.com/163949506
 
 ### Links
 
-#### Pyret site
+##### Pyret site
 
 http://www.pyret.org/
 
-#### Pyret IDE
+##### Pyret IDE
 
 https://code.pyret.org/
 
-#### Bootstrap Hour of Code (Racket)
+##### Bootstrap Hour of Code (Racket)
 
 http://www.bootstrapworld.org/materials/spring2016/tutorial/
 
 
-#### Bootstrap IDE
+##### Bootstrap IDE
 
 http://www.wescheme.org/
 
 
-#### How to Design Programs (Racket)
+##### How to Design Programs (Racket)
 
 http://www.ccs.neu.edu/home/matthias/HtDP2e/
 
 
-#### Picturing Programs (Racket)
+##### Picturing Programs (Racket)
 
 http://picturingprograms.com/
 
 
-#### Systematic Program Design (Racket)
+##### Systematic Program Design (Racket)
 
 https://courses.edx.org/courses/course-v1:UBCx+SPD1x+1T2016/info
 
 
-#### Programming and Programming Languages (Pyret)
+##### Programming and Programming Languages (Pyret)
 
 http://papl.cs.brown.edu/2016/Introduction.html
 
 
-#### Hour of Code (Uses blocks - not a programming language)
+##### Hour of Code (Uses blocks - not a programming language)
 
 https://code.org/learn
 
 
-#### Crunch monster (Javascript)
+##### Crunch monster (Javascript)
 
 http://www.crunchzilla.com/code-monster
 
 
-#### Khan Academy (Javascript)
+##### Khan Academy (Javascript)
 
 https://www.khanacademy.org/computing/computer-programming/programming

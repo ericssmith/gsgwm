@@ -46,7 +46,7 @@ https://courses.edx.org/courses/course-v1:UBCx+SPD1x+1T2016/info
 http://papl.cs.brown.edu/2016/Introduction.html
 
 
-#### Hour of Code
+#### Hour of Code (Uses blocks - not a programming language)
 
 https://code.org/learn
 
